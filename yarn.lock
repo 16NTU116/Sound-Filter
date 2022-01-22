@@ -5178,9 +5178,9 @@ nan@^2.12.1:
   integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
 
 nanoid@^3.1.9:
-  version "3.1.12"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.12.tgz#6f7736c62e8d39421601e4a0c77623a97ea69654"
-  integrity sha512-1qstj9z5+x491jfiC4Nelk+f8XBad7LN20PmyWINJEMRSf3wcAjAWysw1qaA8z6NSKe2sjq1hRSDpBH5paCb6A==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -5960,6 +5960,11 @@ react-native-vector-icons@^7.0.0:
     lodash "^4.17.15"
     prop-types "^15.7.2"
     yargs "^15.0.2"
+
+react-native-video-editing@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-video-editing/-/react-native-video-editing-1.0.1.tgz#5df6b676ae3ec713336f6735540c19ffd455f124"
+  integrity sha512-x8e7aL+jQVoEJTbwp09jkPzX/M/1ij59Js2DeUNbEsOwNeuSoma+JoIL7HrovbtPVEeCe9Y9YE/YuOD7MtQLKQ==
 
 react-native-video@^4.4.5:
   version "4.4.5"
